@@ -6,7 +6,7 @@ android {
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.mobilecomponetlab.AryaMahardika"
+        applicationId "com.mobilecomponetlab.GisellaPutri"
         minSdk 21
         targetSdk 34
         versionCode 1
